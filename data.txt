@@ -1,0 +1,11 @@
+ID	Text	Sentiment
+1	"I love the features of this product! It's so easy to use and efficient."	Positive
+2	"The service was horrible, and the staff were rude."	Negative
+3	"The product is okay, but nothing special. It does the job."	Neutral
+4	"I'm extremely satisfied with the quick response from customer support."	Positive
+5	"The delivery was delayed by a week, and the packaging was damaged."	Negative
+6	"It's fine, but I expected more based on the reviews."	Neutral
+7	"This is the best experience I've ever had with a company!"	Positive
+8	"I had to return the item because it didn't work as advertised."	Negative
+9	"The quality is neither good nor bad. It’s just okay."	Neutral
+10	"Amazing quality and fast delivery, would highly recommend!"	Positive

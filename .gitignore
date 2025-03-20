@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Cache
+.DS_Store
+*.bak
+
+# Ignore environment variables and secrets
+.env
+.env.local
+*.secret
+
+# Ignore Python packaging artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+*.cover
+coverage.xml
+
+# Ignore Docker files
+*.dockerignore
+
+# Ignore Jupyter Notebook metadata
+.ipynb_checkpoints/
