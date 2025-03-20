@@ -12,6 +12,8 @@ This project performs **Sentiment Analysis** on customer reviews using **Azure C
 - **Bulk Sentiment Analysis**: Upload CSV files containing multiple reviews for batch processing.
 - **Sentiment Score**: Get sentiment confidence scores for better analysis.
 - **Data Visualization**: Generate charts and insights from sentiment analysis results.
+![Sentiment_Analysis_with_SpeechtoText_output](https://github.com/user-attachments/assets/5f422f2d-6516-45e2-9abe-11200611a4b8)![SentimentAnalysi_Output](https://github.com/user-attachments/assets/8c58081d-d700-4033-a245-614bb79f8b6e)
+
 
 ## Technologies Used
 - **Python**
